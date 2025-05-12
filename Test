@@ -1,8 +1,14 @@
 <!DOCTYPE html>
 <html>
-<head><title>Project</title></head>
+<head>
+<title>Project</title>
+</head>
 <body>
 <h1>Welcome</h1>
 <p>This is<em>Zoe's<em>Website.</p>
+<dl>
+<dt>My Website</dt>
+<dd>A resume/portfolio</dd>
+</dl>
 </body>
 </html>
