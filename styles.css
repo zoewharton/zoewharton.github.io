@@ -1,0 +1,18 @@
+body {
+    margin: 5% auto;
+    background: #ffffff;
+    color: #444444;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.8;
+    max-width: 48em;
+}
+
+a {
+    border-bottom: 1px solid #444444;
+    color: #444444;
+    text-decoration: none;
+}
+
+a:hover {
+    border-bottom: 0;
+}
