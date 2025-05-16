@@ -17,6 +17,10 @@ a:hover {
     border-bottom: 0;
 }
 
+img {
+  max-width: 100%;
+}
+
 figure {
   width: 24em
 }
