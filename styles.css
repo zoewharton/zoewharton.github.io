@@ -52,7 +52,7 @@ td:last-of-type {
 }
 
 tbody > tr:nth-of-type(even) {
-  background-color: rgb(237 238 242);
+  background-color: rgb(255, 238, 230);
 }
 
 tfoot th {
