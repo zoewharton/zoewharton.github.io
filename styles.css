@@ -17,10 +17,23 @@ a:hover {
     border-bottom: 0;
 }
 
+figure {
+  width: 24em
+}
 
+caption {
+  caption-side: bottom;
+  padding: 10px;
+  font-weight: bold;
+}
 
+video {
+  width: 24em
+}
 
-
+/*
+ Table styles
+*/
 
 table {
   border-collapse: collapse;
@@ -28,12 +41,6 @@ table {
   font-family: sans-serif;
   font-size: 0.8rem;
   letter-spacing: 1px;
-}
-
-caption {
-  caption-side: bottom;
-  padding: 10px;
-  font-weight: bold;
 }
 
 thead,
@@ -61,8 +68,4 @@ tfoot th {
 
 tfoot td {
   font-weight: bold;
-}
-
-video {
-  width: 500px
 }
