@@ -62,3 +62,7 @@ tfoot th {
 tfoot td {
   font-weight: bold;
 }
+
+video {
+  width: 500
+}
